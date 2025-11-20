@@ -1,0 +1,6 @@
+PyQt5>=5.15,<6.0
+requests>=2.31,<3.0
+pandas>=2.2,<3.0
+matplotlib>=3.8,<4.0
+numpy>=1.26,<2.0
+
